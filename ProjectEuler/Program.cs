@@ -12,6 +12,7 @@ using System;
 //No7.ProblemSeven();
 //No8.ProblemEight();
 //No9.ProblemNine();
-No10.ProblemTen();
+//No10.ProblemTen();
+No21.ProblemTwentyOne();
 
 
