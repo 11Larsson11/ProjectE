@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectEuler
 {
-    internal class No5
+    internal class No05
     {
         public static void ProblemFive()
         {
