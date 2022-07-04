@@ -14,10 +14,11 @@ using System;
 //No9.ProblemNine();
 //No10.ProblemTen();
 //No11.ProblemEleven();
-No12.ProblemTwelve();
+//No12.ProblemTwelve();
 //No21.ProblemTwentyOne();
 //No41.ProblemFourtyOne();
 //No54.ProblemFiftyFour();
+No69.ProblemSixtynine();
 
 
 
